@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the eligibility requirements for scholarships?",
+    "expected_answer": "Students must maintain academic standing, complete service hours, and submit the required documents for review.",
+    "expected_context": "Scholarship policy and eligibility criteria"
+  },
+  {
+    "question": "How are dormitory assignments determined?",
+    "expected_answer": "Assignments are based on year, program, and room availability with application deadlines and safety rules.",
+    "expected_context": "Housing policy and dormitory assignment procedure"
+  },
+  {
+    "question": "When do students need to register visitors?",
+    "expected_answer": "Visitors must be registered before entry and residents must keep emergency exits clear at all times.",
+    "expected_context": "Dormitory rules and safety procedures"
+  },
+  {
+    "question": "What is the academic calendar for semester start?",
+    "expected_answer": "The academic calendar includes orientation, registration, add/drop, and final exam periods.",
+    "expected_context": "Academic calendar and semester schedule"
+  },
+  {
+    "question": "Tuition policy question",
+    "expected_answer": "The tuition policy states that fees are paid before the add/drop deadline and students may use installment plans.",
+    "expected_context": "Tuition policy and payment deadlines"
+  },
+  {
+    "question": "What are the eligibility requirements for scholarships?",
+    "expected_answer": "Students must maintain academic standing, complete service hours, and submit the required documents for review.",
+    "expected_context": "Scholarship policy and eligibility criteria"
+  },
+  {
+    "question": "How are dormitory assignments determined?",
+    "expected_answer": "Assignments are based on year, program, and room availability with application deadlines and safety rules.",
+    "expected_context": "Housing policy and dormitory assignment procedure"
+  },
+  {
+    "question": "When do students need to register visitors?",
+    "expected_answer": "Visitors must be registered before entry and residents must keep emergency exits clear at all times.",
+    "expected_context": "Dormitory rules and safety procedures"
+  },
+  {
+    "question": "What is the academic calendar for semester start?",
+    "expected_answer": "The academic calendar includes orientation, registration, add/drop, and final exam periods.",
+    "expected_context": "Academic calendar and semester schedule"
+  },
+  {
+    "question": "Tuition policy question",
+    "expected_answer": "The tuition policy states that fees are paid before the add/drop deadline and students may use installment plans.",
+    "expected_context": "Tuition policy and payment deadlines"
+  },
+  {
+    "question": "What are the eligibility requirements for scholarships?",
+    "expected_answer": "Students must maintain academic standing, complete service hours, and submit the required documents for review.",
+    "expected_context": "Scholarship policy and eligibility criteria"
+  },
+  {
+    "question": "How are dormitory assignments determined?",
+    "expected_answer": "Assignments are based on year, program, and room availability with application deadlines and safety rules.",
+    "expected_context": "Housing policy and dormitory assignment procedure"
+  },
+  {
+    "question": "When do students need to register visitors?",
+    "expected_answer": "Visitors must be registered before entry and residents must keep emergency exits clear at all times.",
+    "expected_context": "Dormitory rules and safety procedures"
+  },
+  {
+    "question": "What is the academic calendar for semester start?",
+    "expected_answer": "The academic calendar includes orientation, registration, add/drop, and final exam periods.",
+    "expected_context": "Academic calendar and semester schedule"
+  },
+  {
+    "question": "Tuition policy question",
+    "expected_answer": "The tuition policy states that fees are paid before the add/drop deadline and students may use installment plans.",
+    "expected_context": "Tuition policy and payment deadlines"
+  }
+]
